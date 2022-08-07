@@ -1,6 +1,6 @@
 # #SaveSmallTech - Campaign to Reform the UK's Online Safety Bill
 
-<img src="readme_image.png" />
+<img src="/readme_image.png" />
 
 **Digital services in the UK are in danger.**
 
@@ -40,4 +40,4 @@ We urge you to join the campaign by emailing your MP with a customisable message
 
 You can find out a bit more about the Online Safety Bill here: https://webdevlaw.uk/2022/07/11/your-compliance-obligations-under-the-uks-online-safety-bill/
 
-Thank You
+Thank you
