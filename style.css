@@ -201,7 +201,6 @@ body {
 	width: 100%;
 	background-size: cover;
 	margin-top: 32px;
-	margin-bottom: 24px;
 }
 
 .main-inner {
@@ -539,12 +538,14 @@ p.footer-caption {
 	flex-direction: row;
 }
 
-#solutions.secondary-wrapper {
+#solutions.secondary-wrapper,
+#summary.secondary-wrapper {
 	background: #f7ebec;
 	padding: 12px;
 }
 
-#problems .section-wrapper {
+#problems .section-wrapper,
+#summary .section-wrapper {
 	display: flex;
 	padding: 12px;
 }
